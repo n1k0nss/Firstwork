@@ -37,9 +37,9 @@ header .menu-top {
       color: #4f4c67;
       font-size: 18px;
       font-weight: 600;
-      transition: font-size 0.2s ease; }
+      transition: color 0.2s ease; }
     header .menu-top li a:hover {
-      font-size: 20px; }
+      color: #BAB8B8; }
 header .buttons {
   display: flex;
   align-items: center; }
